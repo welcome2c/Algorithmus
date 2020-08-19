@@ -1,28 +1,68 @@
-Given a set of candidate numbers (candidates) (without duplicates) and a target number (target), find all unique combinations in candidates where the candidate numbers sums to target.
+### Contact Me
+* Email : welcome2c@naver.com
+* HP : 010 - 9988 - 0504
 
-The same repeated number may be chosen from candidates unlimited number of times.
+# 경력
 
-Note:
+### 총 경력 : 2017.12 ~ (2년 8개월)
+### 현 직장 : 한다소프트
 
-All numbers (including target) will be positive integers.
-The solution set must not contain duplicate combinations.
+#### * 직책 : Android App Developer
+#### * 기간 : 2018.12 ~
 
-Example 1:
-Input: candidates = [2,3,6,7], target = 7,
-A solution set is:
-[
-  [7],
-  [2,2,3]
-]
 
-Example 2:
-Input: candidates = [2,3,5], target = 8,
-A solution set is:
-[
-  [2,2,2,2],
-  [2,3,3],
-  [3,5]
-]
 
-문제 출처 : https://leetcode.com/problems/combination-sum/
-===========================================================
+# 개인 프로젝트
+
+### Boim
+<img src="보임/boim_intro.png" width="180"> <img src="보임/boim_main.png" width="180"> <img src="보임/boim_bgmstory.png" width="180"> <img src="보임/boim_carddeck.png" width="180"> <img src="보임/boim_cardpick.png" width="180"> <img src="보임/boim_editcomment.png" width="180"> <img src="보임/boim_showornoshow.png" width="180"> <img src="보임/boim_side.png" width="180"> <img src="보임/boim_taroting.png" width="180"> <img src="보임/boim_tarotresult.png" width="180">
+
+* 개발기간 : 2018.11 ~ 2018.12
+* 내 용 : 타로 앱 개발
+* 사용언어 : Java / Xml
+* 외주 요청으로 타로 앱 무료버전, 유료버전 개발
+
+
+# 회사 프로젝트
+
+## 투비시스
+### 삼성영어 DEMO
+<img src="투비시스/minslab_english_intro.png" width="180"> <img src="투비시스/minslab_english_main.png" width="180"> <img src="투비시스/minslab_english_side.png" width="180"> <img src="투비시스/minslab_english_study_complete.png" width="180"> <img src="투비시스/minslab_english_study_main.png" width="180"> <img src="투비시스/minslab_english_study_result_1.png" width="180"> <img src="투비시스/minslab_english_study_result_2.png" width="180"> <img src="투비시스/minslab_english_study_result_3.png" width="180"> <img src="투비시스/minslab_english_study_result_4.png" width="180"> <img src="투비시스/minslab_english_study.png" width="180">
+
+* 개발기간 : 2018.01 ~ 2018.02
+* 내   용 : 삼성 영어학습 데모앱 개발
+* 사용언어 : Java / Xml
+* 영어학습 앱 개발 전 사업 설명 시연용 앱 개발
+
+### LG UPlus 챗봇 클라이언트 / YBM 영어 학습 프로토 타입 앱 개발 
+
+* 개발기간 : 2017.12 ~ 2018.01
+* 내   용 : AI서버 연동 학습 데모앱 개발
+* 사용언어 : Java / Xml
+* 앱 개발 전 사업 설명 시연용 앱 개발
+
+
+## 쏘피몬
+### 코인트레이딩 어플 개발
+* 개발기간 : 2018.05 ~ 2018.10
+* 내   용 : 코인 트레이딩 어플 개발
+* 사용언어 : Java / Xml
+* 코인 시세 분석 및 자동 매도, 매수 기능 앱 개발
+
+## 한다소프트
+### 영어신 리뉴얼 개발
+<img src="한다소프트/영어신/capture_01.png" width="180"> <img src="한다소프트/영어신/capture_02.png" width="180"> <img src="한다소프트/영어신/capture_03.png" width="180"> <img src="한다소프트/영어신/capture_04.png" width="180"> <img src="한다소프트/영어신/capture_05.png" width="180"> <img src="한다소프트/영어신/capture_06.png" width="180"> <img src="한다소프트/영어신/capture_07.png" width="180"> <img src="한다소프트/영어신/capture_08.png" width="180"> <img src="한다소프트/영어신/capture_09.png" width="180"> <img src="한다소프트/영어신/capture_10.png" width="180"> <img src="한다소프트/영어신/capture_11.png" width="180"> <img src="한다소프트/영어신/capture_12.png" width="180"> <img src="한다소프트/영어신/capture_13.png" width="180"> <img src="한다소프트/영어신/capture_14.png" width="180"> <img src="한다소프트/영어신/capture_15.png" width="180"> <img src="한다소프트/영어신/capture_16.png" width="180"> <img src="한다소프트/영어신/capture_17.png" width="180"> <img src="한다소프트/영어신/capture_18.png" width="180"> <img src="한다소프트/영어신/capture_19.png" width="180"> <img src="한다소프트/영어신/capture_20.png" width="180"> <img src="한다소프트/영어신/capture_21.png" width="180"> <img src="한다소프트/영어신/capture_22.png" width="180">
+
+* 개발기간 : 2018.12 ~ 2019.04
+* 내   용 : 자사 영어학습 앱 리뉴얼 버전 개발
+* 사용언어 : Java / Xml
+* 자사 기존 영어 학습앱 UI 및 기능 리뉴얼 앱 개발 및 유지보수
+
+### 운세의 정석 리뉴얼 개발
+<img src="한다소프트/운세의정석/capture_01.jpg" width="180"> <img src="한다소프트/운세의정석/capture_02.jpg" width="180"> <img src="한다소프트/운세의정석/capture_03.jpg" width="180"> <img src="한다소프트/운세의정석/capture_04.jpg" width="180"> <img src="한다소프트/운세의정석/capture_05.jpg" width="180"> <img src="한다소프트/운세의정석/capture_06.jpg" width="180"> <img src="한다소프트/운세의정석/capture_07.jpg" width="180"> <img src="한다소프트/운세의정석/capture_08.jpg" width="180"> <img src="한다소프트/운세의정석/capture_09.jpg" width="180"> <img src="한다소프트/운세의정석/capture_10.jpg" width="180"> <img src="한다소프트/운세의정석/capture_11.jpg" width="180"> <img src="한다소프트/운세의정석/capture_12.jpg" width="180"> <img src="한다소프트/운세의정석/capture_13.jpg" width="180"> <img src="한다소프트/운세의정석/capture_14.jpg" width="180"> <img src="한다소프트/운세의정석/capture_15.jpg" width="180"> <img src="한다소프트/운세의정석/capture_16.jpg" width="180"> <img src="한다소프트/운세의정석/capture_17.jpg" width="180">
+
+* 개발기간 : 2019.10 ~ 2020.08
+* 내   용 : 자사 운세앱 리뉴얼 버전 개발
+* 사용언어 : Java / Xml
+* 자사 기존 운세앱 UI 및 기능 추가 리뉴얼 앱 개발 및 유지보수
+
