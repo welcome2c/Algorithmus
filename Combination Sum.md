@@ -42,12 +42,12 @@ public List<List<Integer>> combinationSum(int[] candidates, int target) {
         }
 
         Arrays.sort(candidates);
-        go(candidates, 0, 0);
+        combination(candidates, 0, 0);
 
         return ans;
     }
 
-    private void go(int[] arr, int lo, int curValue) {
+    private void combination(int[] arr, int lo, int curValue) {
         if(curValue == targetValue) {
             ans.add(new ArrayList<Integer>(list));
             return;
@@ -56,7 +56,7 @@ public List<List<Integer>> combinationSum(int[] candidates, int target) {
         for(int i = lo; i < arr.length; i++) {
             if(curValue + arr[i] <= targetValue) {
                 list.add(arr[i]);
-                go(arr, i, curValue + arr[i]);
+                combination(arr, i, curValue + arr[i]);
                 list.remove(list.size() - 1);
             } else
                 break;
