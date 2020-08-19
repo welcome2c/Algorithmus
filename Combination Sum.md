@@ -29,3 +29,38 @@ A solution set is:
 ]
 
 ## 출처 : https://leetcode.com/problems/combination-sum/
+
+<pre><code>
+public List<List<Integer>> combinationSum(int[] candidates, int target) {
+        ans = new ArrayList<List<Integer>>();
+        list = new ArrayList<>();
+        targetValue = target;
+
+        if(candidates.length == 0) {
+            ans.add(list);
+            return ans;
+        }
+
+        Arrays.sort(candidates);
+        go(candidates, 0, 0);
+
+        return ans;
+    }
+
+    private void go(int[] arr, int lo, int curValue) {
+        if(curValue == targetValue) {
+            ans.add(new ArrayList<Integer>(list));
+            return;
+        }
+
+        for(int i = lo; i < arr.length; i++) {
+            if(curValue + arr[i] <= targetValue) {
+                list.add(arr[i]);
+                go(arr, i, curValue + arr[i]);
+                list.remove(list.size() - 1);
+            } else
+                break;
+        }
+    }
+</code></pre>
+
